@@ -1,4 +1,4 @@
-# Flatemates-Bill
+# Flatemates Bill
 
 ## Installation
 run 'python install -r requirements.txt'
